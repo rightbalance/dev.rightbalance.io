@@ -1,1 +1,0 @@
-__NUXT_JSONP__("opportunities/ruby-on-rails-engineer-3", {data:[{}],fetch:[],mutations:void 0});

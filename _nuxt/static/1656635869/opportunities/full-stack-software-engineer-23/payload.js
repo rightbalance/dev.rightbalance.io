@@ -1,1 +1,0 @@
-__NUXT_JSONP__("opportunities/full-stack-software-engineer-23", {data:[{}],fetch:[],mutations:void 0});

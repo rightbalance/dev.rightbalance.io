@@ -1,1 +1,0 @@
-__NUXT_JSONP__("opportunities/react-engineer-22", {data:[{}],fetch:[],mutations:void 0});

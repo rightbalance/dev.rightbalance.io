@@ -1,1 +1,0 @@
-__NUXT_JSONP__("learn/5-rules-of-managing-technical-debt.how-to-keep-moving-fast-today-and-tomorrow", {data:[{}],fetch:[],mutations:void 0});
