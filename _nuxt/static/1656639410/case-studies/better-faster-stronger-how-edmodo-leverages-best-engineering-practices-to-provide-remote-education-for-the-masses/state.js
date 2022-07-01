@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1656639410",layout:"default",error:null,serverRendered:true,routePath:"\u002Fcase-studies\u002Fbetter-faster-stronger-how-edmodo-leverages-best-engineering-practices-to-provide-remote-education-for-the-masses",config:{}};
