@@ -1,0 +1,1 @@
+__NUXT_JSONP__("learn/3-reasons-why-throwing-more-features-at-the-product-doesn-t-work", {data:[{}],fetch:[],mutations:void 0});

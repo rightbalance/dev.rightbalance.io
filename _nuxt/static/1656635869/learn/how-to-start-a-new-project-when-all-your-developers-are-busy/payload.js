@@ -1,0 +1,1 @@
+__NUXT_JSONP__("learn/how-to-start-a-new-project-when-all-your-developers-are-busy", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("case-studies/from-monolith-to-serverless-microservices-how-tuition-io-disrupts-one-trillion-dollar-student-debt-industry-with-new-technology", {data:[{}],fetch:[],mutations:void 0});

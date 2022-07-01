@@ -1,0 +1,1 @@
+__NUXT_JSONP__("learn/5-qualities-of-a-10x-engineer", {data:[{}],fetch:[],mutations:void 0});

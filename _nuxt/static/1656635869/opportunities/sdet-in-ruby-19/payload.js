@@ -1,0 +1,1 @@
+__NUXT_JSONP__("opportunities/sdet-in-ruby-19", {data:[{}],fetch:[],mutations:void 0});

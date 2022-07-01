@@ -1,0 +1,1 @@
+__NUXT_JSONP__("learn/build-for-scale-build-to-last-10-steps-to-build-a-long-lasting-product", {data:[{}],fetch:[],mutations:void 0});

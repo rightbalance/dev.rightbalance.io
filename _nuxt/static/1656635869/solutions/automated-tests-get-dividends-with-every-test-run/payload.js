@@ -1,0 +1,1 @@
+__NUXT_JSONP__("solutions/automated-tests-get-dividends-with-every-test-run", {data:[{}],fetch:[],mutations:void 0});

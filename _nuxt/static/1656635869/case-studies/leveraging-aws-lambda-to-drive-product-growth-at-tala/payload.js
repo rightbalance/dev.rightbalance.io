@@ -1,0 +1,1 @@
+__NUXT_JSONP__("case-studies/leveraging-aws-lambda-to-drive-product-growth-at-tala", {data:[{}],fetch:[],mutations:void 0});

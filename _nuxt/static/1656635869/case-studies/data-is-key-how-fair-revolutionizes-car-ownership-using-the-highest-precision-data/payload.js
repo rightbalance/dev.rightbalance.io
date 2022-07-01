@@ -1,0 +1,1 @@
+__NUXT_JSONP__("case-studies/data-is-key-how-fair-revolutionizes-car-ownership-using-the-highest-precision-data", {data:[{}],fetch:[],mutations:void 0});

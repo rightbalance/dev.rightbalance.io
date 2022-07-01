@@ -1,0 +1,1 @@
+__NUXT_JSONP__("opportunities/react-native-engineer-18", {data:[{}],fetch:[],mutations:void 0});

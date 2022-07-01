@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1656635869",layout:"default",error:null,serverRendered:true,routePath:"\u002Fcase-studies\u002Fdata-is-key-how-fair-revolutionizes-car-ownership-using-the-highest-precision-data",config:{}};

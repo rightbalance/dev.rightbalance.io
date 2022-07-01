@@ -1,0 +1,1 @@
+__NUXT_JSONP__("learn/staff-augmentation-how-to-get-some-extra-help-when-you-need-it", {data:[{}],fetch:[],mutations:void 0});

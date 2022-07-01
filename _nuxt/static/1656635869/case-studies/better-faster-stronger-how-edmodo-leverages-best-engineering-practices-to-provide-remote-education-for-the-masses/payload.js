@@ -1,0 +1,1 @@
+__NUXT_JSONP__("case-studies/better-faster-stronger-how-edmodo-leverages-best-engineering-practices-to-provide-remote-education-for-the-masses", {data:[{}],fetch:[],mutations:void 0});

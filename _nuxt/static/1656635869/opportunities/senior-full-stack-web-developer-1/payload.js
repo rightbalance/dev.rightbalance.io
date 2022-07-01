@@ -1,0 +1,1 @@
+__NUXT_JSONP__("opportunities/senior-full-stack-web-developer-1", {data:[{}],fetch:[],mutations:void 0});

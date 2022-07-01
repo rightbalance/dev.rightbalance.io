@@ -1,0 +1,1 @@
+__NUXT_JSONP__("opportunities/go-engineer-21", {data:[{}],fetch:[],mutations:void 0});
