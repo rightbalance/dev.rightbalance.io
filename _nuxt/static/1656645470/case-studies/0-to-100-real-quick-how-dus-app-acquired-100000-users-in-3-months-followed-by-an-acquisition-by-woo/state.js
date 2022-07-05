@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1656645470",layout:"default",error:null,serverRendered:true,routePath:"\u002Fcase-studies\u002F0-to-100-real-quick-how-dus-app-acquired-100000-users-in-3-months-followed-by-an-acquisition-by-woo",config:{}};
