@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1657736443",layout:"default",error:null,serverRendered:true,routePath:"\u002Fcase-studies\u002Ffrom-nothing-to-100-plus-countries-worldwide-with-commandeer-cloud-software-solution-for-developers",config:{}};
