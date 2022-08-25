@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team", {data:[{}],fetch:[{_error:{message:"document is not defined",statusCode:500}}],mutations:void 0});
