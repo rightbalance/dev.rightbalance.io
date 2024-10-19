@@ -1,0 +1,1 @@
+import{f as n,L as e}from"./entry.s6madv5u.js";const t=n({name:"DocumentDrivenNotFound",render(){return e("div","Document not found")}});export{t as default};
